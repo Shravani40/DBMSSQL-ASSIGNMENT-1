@@ -18,7 +18,11 @@ RELATIONSHIPS:1.doctors work at the hospital
 QUERIES:
 
 1.In the first querie we are going to select from the table doctors where education is 'MBBS,PhD'
+
 2.In the second querie we are going to select patients who show the symptom 'cold'
+
 3.In the third querie it shows the hospital that are in 'Rajasthan'
+
 4.In the fourth querie it shows the details of the patient who have surgery at 8:00:00
+
 5.In the fourth querie it shows the details of the patient who has age less than 30
